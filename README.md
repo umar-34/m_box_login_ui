@@ -1,2 +1,3 @@
 # m_box_login_ui
-Flutter M Box Login UI
+Flutter Simple Login Page UI
+A complete beginner friendly ui
